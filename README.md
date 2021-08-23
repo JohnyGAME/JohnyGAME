@@ -1,0 +1,5 @@
+Ahoj! Jmenuju se Honza.
+
+Je mi 15 let a pocházím z Brna. Jednou bych se chtěl stát webovým vývojářem a být zaměstnaný ve firmě na tvorbu webových stránek na míru. Od malička mě bavily počítače a všechno okolo nich. Později mě napadlo, že bych mohl zkusit nějaké to programování, ale ze začátku jsem tomu nedával velké naděje. Jenže jsme si s kámošem založili minecraft server a potřebovali jsme web a v tu chvíli nastala moje chvíle, protože šablony ve wordpressu mi prostě nestačily. Tak jsem se začal učit, postupně nejdřív HTML5 a CSS3, později i Javascript. A s učením rozhodně nekončím, teď se stále učím JavaScript a v plánu mám pak ještě např.React a další. Taky se zajímám o webhostingy a fungování sítí. Teď dělám webové stránky pro lidi za pár stovek, abych si něco přivydělal ke studiu a nabral nové zkušenosti. Ve volném čase rád sportuju (běh, jízda na kole, plavání) a samozřejmě sedím u PC na kterém programuji, ale také si rád zahraju nějaké pořádné videohry.
+
+Copak mě asi ještě čeká?
